@@ -1,4 +1,4 @@
-<h2> Hi, I'm Rasime Nezle! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi,Rasime Nezle! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Java Developer<a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
@@ -7,8 +7,8 @@
 
 
 #### ⏲ What we are doing now:
-- 🚀 I'm Rasime Nezle.I am currently working as a Java Developer in a technology company, and I have the opportunity to learn and produce together📃.
-- 💻 I also work as a FreeLancer.
+- 🚀I am currently working as a Java Developer in a technology company, and I have the opportunity to learn and produce together📃.
+
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rasimenezle)](https://git.io/streak-stats)
